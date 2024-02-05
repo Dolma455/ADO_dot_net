@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("adoDotNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0106d3420a33991af613c039f32fb94fd75fc39e")]
 [assembly: System.Reflection.AssemblyProductAttribute("adoDotNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("adoDotNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
